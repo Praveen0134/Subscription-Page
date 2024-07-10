@@ -1,0 +1,64 @@
+.bor
+{
+    border: 1px solid black;
+    width: 750px;
+    margin-left: 400px;
+    margin-top: 150px;
+    padding: 0 15px 15px 15px ;
+}
+.sub
+{
+    background-color: rgba(213, 209, 209, 0.985);
+    padding: 15px 10px;
+}
+.inp
+{
+    padding: 20px 10px 0 10px;
+}
+input
+{
+    margin: 6px 0 ;
+    border: 1px solid rgb(201, 201, 201);
+    height: 27px;
+    padding-left: 8px;
+}
+.check
+{
+    display: flex;
+    align-items: center;
+
+}
+button
+{
+    width: 700px;
+    margin: 22px;
+    background-color: rgb(32, 165, 32);
+    border: none;
+    height:30px;
+    color: white;
+    font-size: medium;
+}
+.but
+{
+    background-color: rgb(222, 222, 222);
+}
+.bord
+{
+    border: 1px solid rgba(213, 209, 209, 0.985);
+}
+h2
+{
+    margin-top:8px ;
+    margin-bottom: 10px;
+}
+.box
+{
+    margin: 0px 8px 0px 13px;
+}
+button:hover{
+    background-color: green;
+}
+input:hover
+{
+    background-color: rgb(237, 235, 235);
+}
